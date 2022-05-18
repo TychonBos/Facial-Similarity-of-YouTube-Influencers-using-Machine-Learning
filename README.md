@@ -12,7 +12,7 @@ Each notebook contains 2 Siamese Neural Networks architectures. The networks are
 
 The files are named as follows for the uncropped (without face detection) networks: SiameseYoutube + amount of training images. 
 
-The files are named as follows for the cropped (with face detection) networks: SiameseYoutube + amount of training images + name of face detection algorithm. Where 'name of face detection algorithm' is either a Haar cascade classifier or a Dlib Convolutional Neural Network. 
+The files are named as follows for the cropped (with face detection) networks: SiameseYoutube + amount of training images + name of face detection algorithm. Where 'name of face detection algorithm' is either Haar (Haar cascade classifier) or Dlib (Dlib Convolutional Neural Network). 
 
 Packages and versions
 
